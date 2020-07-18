@@ -15,10 +15,15 @@ It seems like a good lunchtime project to start by exploring the area around DoE
 
 ![15 minutes from DoES Liverpool](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/15-minutes-from-does-liverpool.jpg)
 
-I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate! 
+I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me. 
 
-![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4)
+![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4) 
 
+I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
+Adrians isochrone maps, as mentioned before: http://trips.mcqn.com/
 
+The 15 minute city repository on Github/Liverpool-UK: https://github.com/Liverpool-UK/somebody-should/issues/35 - lots of opportunity for people in Liverpool to get involved if they're interesteed
+
+And 2 articles on Paris: https://www.forbes.com/sites/carltonreid/2020/01/21/phasing-out-cars-key-to-paris-mayors-plans-for-15-minute-city/#5ccba7706952 and https://annehidalgo2020.com/wp-content/uploads/2020/01/Dossier-de-presse-Le-Paris-du-quart-dheure.pdf (this one's in French).
 
