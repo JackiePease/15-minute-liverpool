@@ -20,7 +20,7 @@
 
 title: 15 Minute Liverpool
 email: jackiepease@hotmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: ""
 baseurl: "/15-minute-liverpool" # the subpath of your site, e.g. /blog
 url: "https://JackiePease.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jackie_pease
