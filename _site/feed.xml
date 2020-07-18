@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/15-minute-liverpool/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/15-minute-liverpool/" rel="alternate" type="text/html" /><updated>2020-07-18T19:49:30+01:00</updated><id>http://localhost:4000/15-minute-liverpool/feed.xml</id><title type="html">15 Minute Liverpool</title><subtitle></subtitle><entry><title type="html">First Look at the 15 Minute City</title><link href="http://localhost:4000/15-minute-liverpool/jekyll/update/2020/07/18/first-look.html" rel="alternate" type="text/html" title="First Look at the 15 Minute City" /><published>2020-07-18T15:00:00+01:00</published><updated>2020-07-18T15:00:00+01:00</updated><id>http://localhost:4000/15-minute-liverpool/jekyll/update/2020/07/18/first-look</id><content type="html" xml:base="http://localhost:4000/15-minute-liverpool/jekyll/update/2020/07/18/first-look.html">&lt;p&gt;I’ve seen a lot about 15 minute cities recently:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/15-minute-liverpool/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/15-minute-liverpool/" rel="alternate" type="text/html" /><updated>2020-07-18T20:12:32+01:00</updated><id>http://localhost:4000/15-minute-liverpool/feed.xml</id><title type="html">15 Minute Liverpool</title><subtitle></subtitle><entry><title type="html">First Look at the 15 Minute City</title><link href="http://localhost:4000/15-minute-liverpool/jekyll/update/2020/07/18/first-look.html" rel="alternate" type="text/html" title="First Look at the 15 Minute City" /><published>2020-07-18T15:00:00+01:00</published><updated>2020-07-18T15:00:00+01:00</updated><id>http://localhost:4000/15-minute-liverpool/jekyll/update/2020/07/18/first-look</id><content type="html" xml:base="http://localhost:4000/15-minute-liverpool/jekyll/update/2020/07/18/first-look.html">&lt;p&gt;I’ve seen a lot about 15 minute cities recently:&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;“this simple notion that all your basic everyday needs, from education to commerce to health care to culture and so on, are located within 15 minutes walk or bike &amp;gt;of your front door”.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -13,12 +13,20 @@
 
 &lt;p&gt;I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4&quot; alt=&quot;Rodney Street and back&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/st-andrews-gardens.jpg&quot; alt=&quot;Rodney Street and back&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4&quot;&gt;Click here for more pictures&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m sure there’s lots more thought that can be put into this. For anyone else who’s interested, here’s a few links:&lt;/p&gt;
 
-&lt;p&gt;Adrians isochrone maps, as mentioned before: http://trips.mcqn.com/&lt;/p&gt;
-
-&lt;p&gt;The 15 minute city repository on Github/Liverpool-UK: https://github.com/Liverpool-UK/somebody-should/issues/35 - lots of opportunity for people in Liverpool to get involved if they’re interesteed&lt;/p&gt;
-
-&lt;p&gt;And 2 articles on Paris: https://www.forbes.com/sites/carltonreid/2020/01/21/phasing-out-cars-key-to-paris-mayors-plans-for-15-minute-city/#5ccba7706952 and https://annehidalgo2020.com/wp-content/uploads/2020/01/Dossier-de-presse-Le-Paris-du-quart-dheure.pdf (this one’s in French).&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve seen a lot about 15 minute cities recently: “this simple notion that all your basic everyday needs, from education to commerce to health care to culture and so on, are located within 15 minutes walk or bike &amp;gt;of your front door”.</summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Adrians isochrone maps, as mentioned before: &lt;a href=&quot;trips.mcqn.com&quot;&gt;trips.mcqn.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The 15 minute city repository in Github/Liverpool-UK: &lt;a href=&quot;https://github.com/Liverpool-UK/somebody-should/issues/35&quot;&gt;https://github.com/Liverpool-UK/somebody-should/issues/35&lt;/a&gt; - lots of opportunity for people in Liverpool to get involved if they’re interesteed&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;And 2 articles on Paris: one from &lt;a href=&quot;https://www.forbes.com/sites/carltonreid/2020/01/21/phasing-out-cars-key-to-paris-mayors-plans-for-15-minute-city/#5ccba7706952&quot;&gt;Forbes&lt;/a&gt; and &lt;a href=&quot;https://annehidalgo2020.com/wp-content/uploads/2020/01/Dossier-de-presse-Le-Paris-du-quart-dheure.pdf&quot;&gt;this one&lt;/a&gt; (in French) from the site of Paris mayor Anne Hidalgo.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I’ve seen a lot about 15 minute cities recently: “this simple notion that all your basic everyday needs, from education to commerce to health care to culture and so on, are located within 15 minutes walk or bike &amp;gt;of your front door”.</summary></entry></feed>
