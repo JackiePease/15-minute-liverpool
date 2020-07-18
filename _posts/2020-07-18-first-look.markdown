@@ -21,9 +21,9 @@ I started by just walking to Rodney Street and back on Monday lunchtime - it too
 
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
-Adrians isochrone maps, as mentioned before: http://trips.mcqn.com/
+* Adrians isochrone maps, as mentioned before: [trips.mcqn.com](trips.mcqn.com)
 
-The 15 minute city repository on Github/Liverpool-UK: https://github.com/Liverpool-UK/somebody-should/issues/35 - lots of opportunity for people in Liverpool to get involved if they're interesteed
+* The 15 minute city repository in Github/Liverpool-UK: [https://github.com/Liverpool-UK/somebody-should/issues/35](https://github.com/Liverpool-UK/somebody-should/issues/35) - lots of opportunity for people in Liverpool to get involved if they're interesteed
 
-And 2 articles on Paris: https://www.forbes.com/sites/carltonreid/2020/01/21/phasing-out-cars-key-to-paris-mayors-plans-for-15-minute-city/#5ccba7706952 and https://annehidalgo2020.com/wp-content/uploads/2020/01/Dossier-de-presse-Le-Paris-du-quart-dheure.pdf (this one's in French).
+* And 2 articles on Paris: one from [Forbes](https://www.forbes.com/sites/carltonreid/2020/01/21/phasing-out-cars-key-to-paris-mayors-plans-for-15-minute-city/#5ccba7706952) and [this one](https://annehidalgo2020.com/wp-content/uploads/2020/01/Dossier-de-presse-Le-Paris-du-quart-dheure.pdf) (in French) from the site of Paris mayor Anne Hidalgo.
 
