@@ -13,13 +13,13 @@ It is an interesting way of looking at we do need though, and how we can move aw
 
 It seems like a good lunchtime project to start by exploring the area around DoES Liverpool - Adrian McEwen has been working on isochrone maps which show how far you can get in 15 minutes by cycling or walking (including for people with mobility issues) - you can find out more here: [trips.mcqn.com](trips.mcqn.com). Here's one of his maps showing how far you can get from DoES Liverpool in 15 minutes:
 
-![15 minutes from DoES Liverpool](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/15-minutes-from-does-liverpool.jpg)
+![15 minutes from DoES Liverpool](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/15-minutes-from-does-liverpool.jpg?raw=true)
 
 I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me. 
 
-![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/st-andrews-gardens.jpg)
+![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/st-andrews-gardens.jpg?raw=true)
 
-[Click here for more pictures](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4) 
+[Click here for more pictures](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4?raw=true) 
 
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
