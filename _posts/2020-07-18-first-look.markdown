@@ -19,11 +19,11 @@ I started by just walking to Rodney Street and back on Monday lunchtime - it too
 
 ![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/st-andrews-gardens.jpg?raw=true)
 
-[Click here for more pictures](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/rodney-street.mp4?raw=true) 
+[Click here for more pictures](https://youtu.be/CnIKAuULK7w)
 
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
-* Adrians isochrone maps, as mentioned before: [trips.mcqn.com](trips.mcqn.com)
+* Adrian's isochrone maps, as mentioned before: [trips.mcqn.com](trips.mcqn.com)
 
 * The 15 minute city repository in Github/Liverpool-UK: [https://github.com/Liverpool-UK/somebody-should/issues/35](https://github.com/Liverpool-UK/somebody-should/issues/35) - lots of opportunity for people in Liverpool to get involved if they're interesteed
 
