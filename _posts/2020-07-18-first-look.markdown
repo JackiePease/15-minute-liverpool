@@ -17,13 +17,7 @@ It seems like a good lunchtime project to start by exploring the area around DoE
 
 I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me. 
 
-![Rodney Street and back]https://studio.youtube.com/video/CnIKAuULK7w/edit [300](https://youtu.be/CnIKAuULK7w)
-
-[Click here for more pictures](https://youtu.be/CnIKAuULK7w)
-
-![IMAGE ALT TEXT][(http://img.youtube.com/vi/CnIKAuULK7w/0.jpg)](http://www.youtube.com/watch?v=CnIKAuULK7w "Video Title")
-
-[![Rodney St and back](https://img.youtube.com/vi/CnIKAuULK7w.jpg)](https://www.youtube.com/watch?v=CnIKAuULK7w "Rodney St and back")
+[![Rodney St and back](https://img.youtube.com/vi/CnIKAuULK7w/0.jpg)](https://www.youtube.com/watch?v=CnIKAuULK7w "Rodney St and back")
 
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
