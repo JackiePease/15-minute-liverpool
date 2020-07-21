@@ -17,7 +17,7 @@ It seems like a good lunchtime project to start by exploring the area around DoE
 
 I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me. 
 
-![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/st-andrews-gardens.jpg?raw=true)
+![Rodney Street and back](https://github.com/JackiePease/15-minute-liverpool/blob/gh-pages/assets/images/st-andrews-gardens.jpg?raw=true)(https://youtu.be/CnIKAuULK7w)
 
 [Click here for more pictures](https://youtu.be/CnIKAuULK7w)
 
