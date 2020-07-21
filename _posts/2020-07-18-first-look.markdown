@@ -21,7 +21,7 @@ I started by just walking to Rodney Street and back on Monday lunchtime - it too
 
 [Click here for more pictures](https://youtu.be/CnIKAuULK7w)
 
-![IMAGE ALT TEXT](http://img.youtube.com/vi/CnIKAuULK7w/0.jpg)](http://www.youtube.com/watch?v=CnIKAuULK7w "Video Title")
+![IMAGE ALT TEXT][(http://img.youtube.com/vi/CnIKAuULK7w/0.jpg)](http://www.youtube.com/watch?v=CnIKAuULK7w "Video Title")
 
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
