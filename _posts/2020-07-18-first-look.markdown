@@ -2,6 +2,7 @@
 layout: post
 title:  "First Look at the 15 Minute City"
 date:   2020-07-18 15:00:00 +0100
+youtubeId: CnIKAuULK7w
 categories: jekyll update
 ---
 I've seen a lot about 15 minute cities recently: 
@@ -17,7 +18,7 @@ It seems like a good lunchtime project to start by exploring the area around DoE
 
 I started by just walking to Rodney Street and back on Monday lunchtime - it took exactly half an hour, so the map is accurate, at least for me. 
 
-[![Rodney St and back](https://img.youtube.com/vi/CnIKAuULK7w/0.jpg)](https://www.youtube.com/watch?v=CnIKAuULK7w "Rodney St and back")
+{% include youtubePlayer.html id=page.youtubeId %}
 
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
