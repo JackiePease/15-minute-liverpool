@@ -19,8 +19,6 @@ I started by just walking to Rodney Street and back on Monday lunchtime - it too
 
 [![Rodney St and back](https://img.youtube.com/vi/CnIKAuULK7w/0.jpg)](https://www.youtube.com/watch?v=CnIKAuULK7w "Rodney St and back")
 
-![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-
 I'm sure there's lots more thought that can be put into this. For anyone else who's interested, here's a few links:
 
 * Adrian's isochrone maps, as mentioned before: [trips.mcqn.com](trips.mcqn.com)
