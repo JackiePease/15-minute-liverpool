@@ -20,7 +20,7 @@ Then the top half of Dale Street contains some excellent pubs, along with office
 
 This was a really lovely walk and shows the richness of the city easily accessible from Kempston Street.
 
-My second trip was on 17 August, to the city centre shops, my first visit since before lockdown. I started off via London Road, a mixture of older buildings, replacement apartment blocks and world food shops. There are some nice new outdoor spaces, with places to sit, and an unreconstructed market, before you get to the main street which is busy with buses.
+My second trip was on 17 August, to the city centre shops, my first visit since before lockdown. I started off via London Road, a mixture of older buildings, replacement apartment blocks, school uniform and world food shops. There are some nice new outdoor spaces, with places to sit, and an unreconstructed market, before you get to the main street which is busy with buses.
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
